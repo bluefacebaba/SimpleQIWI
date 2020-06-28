@@ -2,12 +2,12 @@ from setuptools import setup
 
 
 setup(
-    name='BluefaceQIWI',
+    name='SimpleQIWI',
     version='0.7',
-    author='BlueFace',
+    author='Emberium',
     description='QIWI API for Humans',
     long_description='See https://github.com/Emberium/SimpleQIWI',
-    url='https://github.com/bluefacebaba/SimpleQIWI',
+    url='https://github.com/Emberium/SimpleQIWI',
     install_requires=['requests', 'uuid'],
-    packages=['BlueFace']
+    packages=['SimpleQIWI']
 )
